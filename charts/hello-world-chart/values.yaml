@@ -5,7 +5,7 @@ image:
   tag: latest
   pullPolicy: IfNotPresent
 
-greeting: "Hello, World!"
+greeting: "Hello, World 2!"
 
 service:
   type: ClusterIP
